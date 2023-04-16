@@ -109,5 +109,17 @@
 				"dependencies": {}
 			}
 		]
+	},
+	"eurorack-parts": {
+		"owner": "danroblewis",
+		"homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
+		"releases": [
+			{
+				"version": "0.0.1",
+				"artifact_url": "https://github.com/danroblewis/kicad-eurorack-tools/releases/download/kpm_v0.0.1/kpm-eurorack-tools.zip",
+				"author": "danroblewis",
+				"dependencies": {}
+			}
+		]
 	}
 }
