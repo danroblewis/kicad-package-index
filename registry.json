@@ -121,8 +121,7 @@
 				"dependencies": {}
 			}
 		]
-	},
-	    "4xxx": {
+	},    "kicad_libs_4xxx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
@@ -134,2569 +133,2581 @@
             }
         ]
     },
-    "4xxx_IEEE": {
+	    "kicad_libs_4xxx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/4xxx_IEEE-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_4xxx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "74xGxx": {
+    "kicad_libs_4xxx_IEEE": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/74xGxx-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_4xxx_IEEE-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "74xx": {
+    "kicad_libs_74xGxx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/74xx-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_74xGxx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "74xx_IEEE": {
+    "kicad_libs_74xx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/74xx_IEEE-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_74xx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Audio": {
+    "kicad_libs_74xx_IEEE": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Audio-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_74xx_IEEE-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Buffer": {
+    "kicad_libs_Amplifier_Audio": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Buffer-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Audio-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Current": {
+    "kicad_libs_Amplifier_Buffer": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Current-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Buffer-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Difference": {
+    "kicad_libs_Amplifier_Current": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Difference-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Current-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Instrumentation": {
+    "kicad_libs_Amplifier_Difference": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Instrumentation-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Difference-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Operational": {
+    "kicad_libs_Amplifier_Instrumentation": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Operational-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Instrumentation-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Amplifier_Video": {
+    "kicad_libs_Amplifier_Operational": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Amplifier_Video-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Operational-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Analog": {
+    "kicad_libs_Amplifier_Video": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Analog-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Amplifier_Video-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Analog_ADC": {
+    "kicad_libs_Analog": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Analog_ADC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Analog-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Analog_DAC": {
+    "kicad_libs_Analog_ADC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Analog_DAC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Analog_ADC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Analog_Switch": {
+    "kicad_libs_Analog_DAC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Analog_Switch-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Analog_DAC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Audio": {
+    "kicad_libs_Analog_Switch": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Audio-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Analog_Switch-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Battery_Management": {
+    "kicad_libs_Audio": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Battery_Management-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Audio-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Buffer": {
+    "kicad_libs_Battery_Management": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Buffer-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Battery_Management-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPLD_Altera": {
+    "kicad_libs_Buffer": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPLD_Altera-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Buffer-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPLD_Microchip": {
+    "kicad_libs_CPLD_Altera": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPLD_Microchip-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPLD_Altera-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPLD_Xilinx": {
+    "kicad_libs_CPLD_Microchip": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPLD_Xilinx-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPLD_Microchip-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPU": {
+    "kicad_libs_CPLD_Xilinx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPU-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPLD_Xilinx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPU_NXP_6800": {
+    "kicad_libs_CPU": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPU_NXP_6800-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPU-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPU_NXP_68000": {
+    "kicad_libs_CPU_NXP_6800": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPU_NXP_68000-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPU_NXP_6800-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPU_NXP_IMX": {
+    "kicad_libs_CPU_NXP_68000": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPU_NXP_IMX-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPU_NXP_68000-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "CPU_PowerPC": {
+    "kicad_libs_CPU_NXP_IMX": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/CPU_PowerPC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPU_NXP_IMX-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Comparator": {
+    "kicad_libs_CPU_PowerPC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Comparator-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_CPU_PowerPC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Connector": {
+    "kicad_libs_Comparator": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Connector-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Comparator-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Connector_Audio": {
+    "kicad_libs_Connector": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Connector_Audio-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Connector-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Connector_Generic": {
+    "kicad_libs_Connector_Audio": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Connector_Generic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Connector_Audio-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Connector_Generic_MountingPin": {
+    "kicad_libs_Connector_Generic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Connector_Generic_MountingPin-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Connector_Generic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Connector_Generic_Shielded": {
+    "kicad_libs_Connector_Generic_MountingPin": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Connector_Generic_Shielded-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Connector_Generic_MountingPin-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Converter_ACDC": {
+    "kicad_libs_Connector_Generic_Shielded": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Converter_ACDC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Connector_Generic_Shielded-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Converter_DCDC": {
+    "kicad_libs_Converter_ACDC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Converter_DCDC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Converter_ACDC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "DSP_AnalogDevices": {
+    "kicad_libs_Converter_DCDC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/DSP_AnalogDevices-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Converter_DCDC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "DSP_Freescale": {
+    "kicad_libs_DSP_AnalogDevices": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/DSP_Freescale-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_DSP_AnalogDevices-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "DSP_Microchip_DSPIC33": {
+    "kicad_libs_DSP_Freescale": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/DSP_Microchip_DSPIC33-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_DSP_Freescale-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "DSP_Motorola": {
+    "kicad_libs_DSP_Microchip_DSPIC33": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/DSP_Motorola-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_DSP_Microchip_DSPIC33-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "DSP_Texas": {
+    "kicad_libs_DSP_Motorola": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/DSP_Texas-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_DSP_Motorola-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Device": {
+    "kicad_libs_DSP_Texas": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Device-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_DSP_Texas-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Diode": {
+    "kicad_libs_Device": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Diode-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Device-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Diode_Bridge": {
+    "kicad_libs_Diode": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Diode_Bridge-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Diode-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Diode_Laser": {
+    "kicad_libs_Diode_Bridge": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Diode_Laser-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Diode_Bridge-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Display_Character": {
+    "kicad_libs_Diode_Laser": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Display_Character-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Diode_Laser-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Display_Graphic": {
+    "kicad_libs_Display_Character": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Display_Graphic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Display_Character-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_Display": {
+    "kicad_libs_Display_Graphic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_Display-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Display_Graphic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_FET": {
+    "kicad_libs_Driver_Display": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_FET-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_Display-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_Haptic": {
+    "kicad_libs_Driver_FET": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_Haptic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_FET-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_LED": {
+    "kicad_libs_Driver_Haptic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_LED-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_Haptic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_Motor": {
+    "kicad_libs_Driver_LED": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_Motor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_LED-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_Relay": {
+    "kicad_libs_Driver_Motor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_Relay-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_Motor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Driver_TEC": {
+    "kicad_libs_Driver_Relay": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Driver_TEC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_Relay-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_CologneChip_GateMate": {
+    "kicad_libs_Driver_TEC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_CologneChip_GateMate-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Driver_TEC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Efinix_Trion": {
+    "kicad_libs_FPGA_CologneChip_GateMate": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Efinix_Trion-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_CologneChip_GateMate-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Lattice": {
+    "kicad_libs_FPGA_Efinix_Trion": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Lattice-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Efinix_Trion-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Microsemi": {
+    "kicad_libs_FPGA_Lattice": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Microsemi-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Lattice-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx": {
+    "kicad_libs_FPGA_Microsemi": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Microsemi-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Artix7": {
+    "kicad_libs_FPGA_Xilinx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Artix7-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Kintex7": {
+    "kicad_libs_FPGA_Xilinx_Artix7": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Kintex7-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Artix7-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Spartan6": {
+    "kicad_libs_FPGA_Xilinx_Kintex7": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Spartan6-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Kintex7-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Virtex5": {
+    "kicad_libs_FPGA_Xilinx_Spartan6": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Virtex5-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Spartan6-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Virtex6": {
+    "kicad_libs_FPGA_Xilinx_Virtex5": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Virtex6-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Virtex5-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "FPGA_Xilinx_Virtex7": {
+    "kicad_libs_FPGA_Xilinx_Virtex6": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/FPGA_Xilinx_Virtex7-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Virtex6-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Fiber_Optic": {
+    "kicad_libs_FPGA_Xilinx_Virtex7": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Fiber_Optic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_FPGA_Xilinx_Virtex7-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Filter": {
+    "kicad_libs_Fiber_Optic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Filter-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Fiber_Optic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "GPU": {
+    "kicad_libs_Filter": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/GPU-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Filter-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Graphic": {
+    "kicad_libs_GPU": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Graphic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_GPU-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface": {
+    "kicad_libs_Graphic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Graphic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_CAN_LIN": {
+    "kicad_libs_Interface": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_CAN_LIN-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_CurrentLoop": {
+    "kicad_libs_Interface_CAN_LIN": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_CurrentLoop-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_CAN_LIN-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_Ethernet": {
+    "kicad_libs_Interface_CurrentLoop": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_Ethernet-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_CurrentLoop-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_Expansion": {
+    "kicad_libs_Interface_Ethernet": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_Expansion-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_Ethernet-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_HDMI": {
+    "kicad_libs_Interface_Expansion": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_HDMI-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_Expansion-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_HID": {
+    "kicad_libs_Interface_HDMI": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_HID-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_HDMI-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_LineDriver": {
+    "kicad_libs_Interface_HID": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_LineDriver-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_HID-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_Optical": {
+    "kicad_libs_Interface_LineDriver": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_Optical-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_LineDriver-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_Telecom": {
+    "kicad_libs_Interface_Optical": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_Telecom-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_Optical-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_UART": {
+    "kicad_libs_Interface_Telecom": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_UART-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_Telecom-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Interface_USB": {
+    "kicad_libs_Interface_UART": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Interface_USB-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_UART-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Isolator": {
+    "kicad_libs_Interface_USB": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Isolator-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Interface_USB-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Isolator_Analog": {
+    "kicad_libs_Isolator": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Isolator_Analog-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Isolator-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Jumper": {
+    "kicad_libs_Isolator_Analog": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Jumper-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Isolator_Analog-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "LED": {
+    "kicad_libs_Jumper": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/LED-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Jumper-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Logic_LevelTranslator": {
+    "kicad_libs_LED": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Logic_LevelTranslator-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_LED-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Logic_Programmable": {
+    "kicad_libs_Logic_LevelTranslator": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Logic_Programmable-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Logic_LevelTranslator-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_AnalogDevices": {
+    "kicad_libs_Logic_Programmable": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_AnalogDevices-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Logic_Programmable-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Cypress": {
+    "kicad_libs_MCU_AnalogDevices": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Cypress-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_AnalogDevices-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Dialog": {
+    "kicad_libs_MCU_Cypress": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Dialog-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Cypress-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Espressif": {
+    "kicad_libs_MCU_Dialog": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Espressif-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Dialog-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Intel": {
+    "kicad_libs_MCU_Espressif": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Intel-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Espressif-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_8051": {
+    "kicad_libs_MCU_Intel": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_8051-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Intel-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_ATmega": {
+    "kicad_libs_MCU_Microchip_8051": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_ATmega-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_8051-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_ATtiny": {
+    "kicad_libs_MCU_Microchip_ATmega": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_ATtiny-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_ATmega-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_AVR": {
+    "kicad_libs_MCU_Microchip_ATtiny": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_AVR-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_ATtiny-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_AVR_Dx": {
+    "kicad_libs_MCU_Microchip_AVR": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_AVR_Dx-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_AVR-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC10": {
+    "kicad_libs_MCU_Microchip_AVR_Dx": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC10-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_AVR_Dx-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC12": {
+    "kicad_libs_MCU_Microchip_PIC10": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC12-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC10-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC16": {
+    "kicad_libs_MCU_Microchip_PIC12": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC16-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC12-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC18": {
+    "kicad_libs_MCU_Microchip_PIC16": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC18-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC16-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC24": {
+    "kicad_libs_MCU_Microchip_PIC18": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC24-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC18-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_PIC32": {
+    "kicad_libs_MCU_Microchip_PIC24": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_PIC32-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC24-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_SAMA": {
+    "kicad_libs_MCU_Microchip_PIC32": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_SAMA-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_PIC32-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_SAMD": {
+    "kicad_libs_MCU_Microchip_SAMA": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_SAMD-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_SAMA-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_SAME": {
+    "kicad_libs_MCU_Microchip_SAMD": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_SAME-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_SAMD-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_SAML": {
+    "kicad_libs_MCU_Microchip_SAME": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_SAML-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_SAME-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Microchip_SAMV": {
+    "kicad_libs_MCU_Microchip_SAML": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Microchip_SAMV-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_SAML-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Module": {
+    "kicad_libs_MCU_Microchip_SAMV": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Module-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Microchip_SAMV-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_ColdFire": {
+    "kicad_libs_MCU_Module": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_ColdFire-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Module-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_HC11": {
+    "kicad_libs_MCU_NXP_ColdFire": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_HC11-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_ColdFire-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_HC12": {
+    "kicad_libs_MCU_NXP_HC11": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_HC12-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_HC11-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_HCS12": {
+    "kicad_libs_MCU_NXP_HC12": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_HCS12-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_HC12-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_Kinetis": {
+    "kicad_libs_MCU_NXP_HCS12": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_Kinetis-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_HCS12-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_LPC": {
+    "kicad_libs_MCU_NXP_Kinetis": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_LPC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_Kinetis-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_MAC7100": {
+    "kicad_libs_MCU_NXP_LPC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_MAC7100-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_LPC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_MCore": {
+    "kicad_libs_MCU_NXP_MAC7100": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_MCore-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_MAC7100-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_NTAG": {
+    "kicad_libs_MCU_NXP_MCore": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_NTAG-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_MCore-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_NXP_S08": {
+    "kicad_libs_MCU_NXP_NTAG": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_NXP_S08-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_NTAG-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Nordic": {
+    "kicad_libs_MCU_NXP_S08": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Nordic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_NXP_S08-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Parallax": {
+    "kicad_libs_MCU_Nordic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Parallax-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Nordic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_RaspberryPi": {
+    "kicad_libs_MCU_Parallax": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_RaspberryPi-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Parallax-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Renesas_Synergy_S1": {
+    "kicad_libs_MCU_RaspberryPi": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Renesas_Synergy_S1-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_RaspberryPi-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_STC": {
+    "kicad_libs_MCU_Renesas_Synergy_S1": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_STC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Renesas_Synergy_S1-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32C0": {
+    "kicad_libs_MCU_STC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32C0-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_STC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F0": {
+    "kicad_libs_MCU_ST_STM32C0": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F0-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32C0-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F1": {
+    "kicad_libs_MCU_ST_STM32F0": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F1-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F0-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F2": {
+    "kicad_libs_MCU_ST_STM32F1": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F2-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F1-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F3": {
+    "kicad_libs_MCU_ST_STM32F2": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F3-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F2-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F4": {
+    "kicad_libs_MCU_ST_STM32F3": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F4-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F3-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32F7": {
+    "kicad_libs_MCU_ST_STM32F4": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32F7-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F4-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32G0": {
+    "kicad_libs_MCU_ST_STM32F7": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32G0-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32F7-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32G4": {
+    "kicad_libs_MCU_ST_STM32G0": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32G4-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32G0-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32H7": {
+    "kicad_libs_MCU_ST_STM32G4": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32H7-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32G4-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32L0": {
+    "kicad_libs_MCU_ST_STM32H7": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32L0-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32H7-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32L1": {
+    "kicad_libs_MCU_ST_STM32L0": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32L1-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32L0-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32L4": {
+    "kicad_libs_MCU_ST_STM32L1": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32L4-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32L1-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32L5": {
+    "kicad_libs_MCU_ST_STM32L4": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32L5-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32L4-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32MP1": {
+    "kicad_libs_MCU_ST_STM32L5": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32MP1-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32L5-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32U5": {
+    "kicad_libs_MCU_ST_STM32MP1": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32U5-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32MP1-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32WB": {
+    "kicad_libs_MCU_ST_STM32U5": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32WB-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32U5-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM32WL": {
+    "kicad_libs_MCU_ST_STM32WB": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM32WL-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32WB-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_ST_STM8": {
+    "kicad_libs_MCU_ST_STM32WL": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_ST_STM8-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM32WL-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_SiFive": {
+    "kicad_libs_MCU_ST_STM8": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_SiFive-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_ST_STM8-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_SiliconLabs": {
+    "kicad_libs_MCU_SiFive": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_SiliconLabs-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_SiFive-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Texas": {
+    "kicad_libs_MCU_SiliconLabs": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Texas-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_SiliconLabs-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Texas_MSP430": {
+    "kicad_libs_MCU_Texas": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Texas_MSP430-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Texas-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "MCU_Texas_SimpleLink": {
+    "kicad_libs_MCU_Texas_MSP430": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/MCU_Texas_SimpleLink-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Texas_MSP430-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Mechanical": {
+    "kicad_libs_MCU_Texas_SimpleLink": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Mechanical-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_MCU_Texas_SimpleLink-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_EEPROM": {
+    "kicad_libs_Mechanical": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_EEPROM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Mechanical-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_EPROM": {
+    "kicad_libs_Memory_EEPROM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_EPROM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_EEPROM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_Flash": {
+    "kicad_libs_Memory_EPROM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_Flash-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_EPROM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_NVRAM": {
+    "kicad_libs_Memory_Flash": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_NVRAM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_Flash-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_RAM": {
+    "kicad_libs_Memory_NVRAM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_RAM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_NVRAM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_ROM": {
+    "kicad_libs_Memory_RAM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_ROM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_RAM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Memory_UniqueID": {
+    "kicad_libs_Memory_ROM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Memory_UniqueID-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_ROM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Motor": {
+    "kicad_libs_Memory_UniqueID": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Motor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Memory_UniqueID-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Oscillator": {
+    "kicad_libs_Motor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Oscillator-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Motor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Potentiometer_Digital": {
+    "kicad_libs_Oscillator": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Potentiometer_Digital-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Oscillator-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Power_Management": {
+    "kicad_libs_Potentiometer_Digital": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Power_Management-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Potentiometer_Digital-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Power_Protection": {
+    "kicad_libs_Power_Management": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Power_Protection-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Power_Management-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Power_Supervisor": {
+    "kicad_libs_Power_Protection": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Power_Supervisor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Power_Protection-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF": {
+    "kicad_libs_Power_Supervisor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Power_Supervisor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_AM_FM": {
+    "kicad_libs_RF": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_AM_FM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Amplifier": {
+    "kicad_libs_RF_AM_FM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Amplifier-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_AM_FM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Bluetooth": {
+    "kicad_libs_RF_Amplifier": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Bluetooth-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Amplifier-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Filter": {
+    "kicad_libs_RF_Bluetooth": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Filter-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Bluetooth-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_GPS": {
+    "kicad_libs_RF_Filter": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_GPS-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Filter-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_GSM": {
+    "kicad_libs_RF_GPS": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_GSM-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_GPS-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Mixer": {
+    "kicad_libs_RF_GSM": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Mixer-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_GSM-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Module": {
+    "kicad_libs_RF_Mixer": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Module-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Mixer-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_NFC": {
+    "kicad_libs_RF_Module": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_NFC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Module-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_RFID": {
+    "kicad_libs_RF_NFC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_RFID-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_NFC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_Switch": {
+    "kicad_libs_RF_RFID": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_Switch-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_RFID-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_WiFi": {
+    "kicad_libs_RF_Switch": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_WiFi-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_Switch-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "RF_ZigBee": {
+    "kicad_libs_RF_WiFi": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/RF_ZigBee-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_WiFi-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Reference_Current": {
+    "kicad_libs_RF_ZigBee": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Reference_Current-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_RF_ZigBee-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Reference_Voltage": {
+    "kicad_libs_Reference_Current": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Reference_Voltage-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Reference_Current-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Regulator_Controller": {
+    "kicad_libs_Reference_Voltage": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Regulator_Controller-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Reference_Voltage-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Regulator_Current": {
+    "kicad_libs_Regulator_Controller": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Regulator_Current-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Regulator_Controller-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Regulator_Linear": {
+    "kicad_libs_Regulator_Current": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Regulator_Linear-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Regulator_Current-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Regulator_SwitchedCapacitor": {
+    "kicad_libs_Regulator_Linear": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Regulator_SwitchedCapacitor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Regulator_Linear-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Regulator_Switching": {
+    "kicad_libs_Regulator_SwitchedCapacitor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Regulator_Switching-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Regulator_SwitchedCapacitor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Relay": {
+    "kicad_libs_Regulator_Switching": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Relay-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Regulator_Switching-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Relay_SolidState": {
+    "kicad_libs_Relay": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Relay_SolidState-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Relay-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Security": {
+    "kicad_libs_Relay_SolidState": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Security-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Relay_SolidState-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor": {
+    "kicad_libs_Security": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Security-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Audio": {
+    "kicad_libs_Sensor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Audio-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Current": {
+    "kicad_libs_Sensor_Audio": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Current-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Audio-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Distance": {
+    "kicad_libs_Sensor_Current": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Distance-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Current-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Energy": {
+    "kicad_libs_Sensor_Distance": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Energy-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Distance-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Gas": {
+    "kicad_libs_Sensor_Energy": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Gas-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Energy-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Humidity": {
+    "kicad_libs_Sensor_Gas": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Humidity-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Gas-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Magnetic": {
+    "kicad_libs_Sensor_Humidity": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Magnetic-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Humidity-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Motion": {
+    "kicad_libs_Sensor_Magnetic": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Motion-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Magnetic-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Optical": {
+    "kicad_libs_Sensor_Motion": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Optical-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Motion-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Pressure": {
+    "kicad_libs_Sensor_Optical": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Pressure-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Optical-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Proximity": {
+    "kicad_libs_Sensor_Pressure": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Proximity-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Pressure-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Temperature": {
+    "kicad_libs_Sensor_Proximity": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Temperature-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Proximity-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Touch": {
+    "kicad_libs_Sensor_Temperature": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Touch-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Temperature-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Sensor_Voltage": {
+    "kicad_libs_Sensor_Touch": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Sensor_Voltage-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Touch-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Simulation_SPICE": {
+    "kicad_libs_Sensor_Voltage": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Simulation_SPICE-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Sensor_Voltage-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Switch": {
+    "kicad_libs_Simulation_SPICE": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Switch-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Simulation_SPICE-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Timer": {
+    "kicad_libs_Switch": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Timer-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Switch-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Timer_PLL": {
+    "kicad_libs_Timer": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Timer_PLL-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Timer-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Timer_RTC": {
+    "kicad_libs_Timer_PLL": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Timer_RTC-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Timer_PLL-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transformer": {
+    "kicad_libs_Timer_RTC": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transformer-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Timer_RTC-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transistor_Array": {
+    "kicad_libs_Transformer": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transistor_Array-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transformer-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transistor_BJT": {
+    "kicad_libs_Transistor_Array": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transistor_BJT-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transistor_Array-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transistor_FET": {
+    "kicad_libs_Transistor_BJT": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transistor_FET-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transistor_BJT-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transistor_IGBT": {
+    "kicad_libs_Transistor_FET": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transistor_IGBT-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transistor_FET-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Transistor_Power_Module": {
+    "kicad_libs_Transistor_IGBT": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Transistor_Power_Module-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transistor_IGBT-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Triac_Thyristor": {
+    "kicad_libs_Transistor_Power_Module": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Triac_Thyristor-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Transistor_Power_Module-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Valve": {
+    "kicad_libs_Triac_Thyristor": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Valve-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Triac_Thyristor-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "Video": {
+    "kicad_libs_Valve": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/Video-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Valve-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
         ]
     },
-    "power": {
+    "kicad_libs_Video": {
         "owner": "kicad_contributors",
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
                 "version": "0.0.1",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/power-v0.0.1.zip",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_Video-v0.0.1.zip",
+                "author": "kicad_contributors",
+                "dependencies": {}
+            }
+        ]
+    },
+    "kicad_libs_power": {
+        "owner": "kicad_contributors",
+        "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.1/kicad_libs_power-v0.0.1.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
