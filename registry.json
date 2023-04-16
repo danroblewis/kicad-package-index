@@ -127,8 +127,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_4xxx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_4xxx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -139,8 +139,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_4xxx_IEEE-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_4xxx_IEEE-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -151,8 +151,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_74xGxx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_74xGxx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -163,8 +163,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_74xx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_74xx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -175,8 +175,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_74xx_IEEE-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_74xx_IEEE-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -187,8 +187,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Audio-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Audio-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -199,8 +199,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Buffer-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Buffer-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -211,8 +211,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Current-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Current-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -223,8 +223,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Difference-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Difference-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -235,8 +235,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Instrumentation-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Instrumentation-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -247,8 +247,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Operational-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Operational-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -259,8 +259,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Amplifier_Video-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Amplifier_Video-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -271,8 +271,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Analog-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Analog-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -283,8 +283,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Analog_ADC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Analog_ADC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -295,8 +295,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Analog_DAC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Analog_DAC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -307,8 +307,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Analog_Switch-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Analog_Switch-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -319,8 +319,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Audio-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Audio-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -331,8 +331,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Battery_Management-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Battery_Management-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -343,8 +343,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Buffer-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Buffer-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -355,8 +355,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPLD_Altera-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPLD_Altera-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -367,8 +367,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPLD_Microchip-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPLD_Microchip-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -379,8 +379,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPLD_Xilinx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPLD_Xilinx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -391,8 +391,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPU-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPU-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -403,8 +403,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPU_NXP_6800-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPU_NXP_6800-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -415,8 +415,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPU_NXP_68000-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPU_NXP_68000-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -427,8 +427,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPU_NXP_IMX-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPU_NXP_IMX-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -439,8 +439,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_CPU_PowerPC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_CPU_PowerPC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -451,8 +451,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Comparator-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Comparator-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -463,8 +463,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Connector-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Connector-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -475,8 +475,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Connector_Audio-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Connector_Audio-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -487,8 +487,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Connector_Generic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Connector_Generic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -499,8 +499,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Connector_Generic_MountingPin-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Connector_Generic_MountingPin-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -511,8 +511,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Connector_Generic_Shielded-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Connector_Generic_Shielded-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -523,8 +523,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Converter_ACDC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Converter_ACDC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -535,8 +535,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Converter_DCDC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Converter_DCDC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -547,8 +547,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_DSP_AnalogDevices-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_DSP_AnalogDevices-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -559,8 +559,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_DSP_Freescale-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_DSP_Freescale-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -571,8 +571,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_DSP_Microchip_DSPIC33-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_DSP_Microchip_DSPIC33-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -583,8 +583,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_DSP_Motorola-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_DSP_Motorola-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -595,8 +595,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_DSP_Texas-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_DSP_Texas-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -607,8 +607,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Device-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Device-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -619,8 +619,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Diode-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Diode-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -631,8 +631,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Diode_Bridge-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Diode_Bridge-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -643,8 +643,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Diode_Laser-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Diode_Laser-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -655,8 +655,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Display_Character-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Display_Character-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -667,8 +667,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Display_Graphic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Display_Graphic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -679,8 +679,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_Display-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_Display-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -691,8 +691,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_FET-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_FET-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -703,8 +703,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_Haptic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_Haptic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -715,8 +715,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_LED-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_LED-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -727,8 +727,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_Motor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_Motor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -739,8 +739,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_Relay-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_Relay-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -751,8 +751,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Driver_TEC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Driver_TEC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -763,8 +763,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_CologneChip_GateMate-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_CologneChip_GateMate-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -775,8 +775,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Efinix_Trion-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Efinix_Trion-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -787,8 +787,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Lattice-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Lattice-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -799,8 +799,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Microsemi-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Microsemi-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -811,8 +811,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -823,8 +823,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Artix7-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Artix7-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -835,8 +835,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Kintex7-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Kintex7-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -847,8 +847,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Spartan6-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Spartan6-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -859,8 +859,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Virtex5-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Virtex5-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -871,8 +871,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Virtex6-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Virtex6-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -883,8 +883,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_FPGA_Xilinx_Virtex7-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_FPGA_Xilinx_Virtex7-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -895,8 +895,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Fiber_Optic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Fiber_Optic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -907,8 +907,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Filter-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Filter-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -919,8 +919,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_GPU-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_GPU-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -931,8 +931,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Graphic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Graphic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -943,8 +943,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -955,8 +955,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_CAN_LIN-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_CAN_LIN-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -967,8 +967,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_CurrentLoop-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_CurrentLoop-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -979,8 +979,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_Ethernet-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_Ethernet-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -991,8 +991,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_Expansion-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_Expansion-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1003,8 +1003,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_HDMI-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_HDMI-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1015,8 +1015,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_HID-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_HID-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1027,8 +1027,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_LineDriver-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_LineDriver-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1039,8 +1039,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_Optical-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_Optical-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1051,8 +1051,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_Telecom-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_Telecom-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1063,8 +1063,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_UART-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_UART-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1075,8 +1075,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Interface_USB-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Interface_USB-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1087,8 +1087,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Isolator-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Isolator-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1099,8 +1099,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Isolator_Analog-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Isolator_Analog-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1111,8 +1111,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Jumper-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Jumper-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1123,8 +1123,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_LED-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_LED-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1135,8 +1135,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Logic_LevelTranslator-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Logic_LevelTranslator-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1147,8 +1147,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Logic_Programmable-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Logic_Programmable-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1159,8 +1159,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_AnalogDevices-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_AnalogDevices-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1171,8 +1171,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Cypress-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Cypress-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1183,8 +1183,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Dialog-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Dialog-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1195,8 +1195,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Espressif-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Espressif-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1207,8 +1207,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Intel-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Intel-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1219,8 +1219,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_8051-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_8051-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1231,8 +1231,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_ATmega-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_ATmega-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1243,8 +1243,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_ATtiny-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_ATtiny-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1255,8 +1255,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_AVR-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_AVR-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1267,8 +1267,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_AVR_Dx-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_AVR_Dx-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1279,8 +1279,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC10-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC10-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1291,8 +1291,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC12-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC12-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1303,8 +1303,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC16-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC16-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1315,8 +1315,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC18-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC18-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1327,8 +1327,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC24-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC24-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1339,8 +1339,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_PIC32-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_PIC32-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1351,8 +1351,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_SAMA-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_SAMA-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1363,8 +1363,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_SAMD-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_SAMD-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1375,8 +1375,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_SAME-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_SAME-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1387,8 +1387,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_SAML-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_SAML-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1399,8 +1399,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Microchip_SAMV-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Microchip_SAMV-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1411,8 +1411,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Module-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Module-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1423,8 +1423,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_ColdFire-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_ColdFire-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1435,8 +1435,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_HC11-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_HC11-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1447,8 +1447,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_HC12-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_HC12-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1459,8 +1459,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_HCS12-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_HCS12-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1471,8 +1471,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_Kinetis-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_Kinetis-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1483,8 +1483,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_LPC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_LPC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1495,8 +1495,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_MAC7100-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_MAC7100-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1507,8 +1507,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_MCore-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_MCore-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1519,8 +1519,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_NTAG-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_NTAG-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1531,8 +1531,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_NXP_S08-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_NXP_S08-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1543,8 +1543,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Nordic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Nordic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1555,8 +1555,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Parallax-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Parallax-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1567,8 +1567,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_RaspberryPi-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_RaspberryPi-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1579,8 +1579,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Renesas_Synergy_S1-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Renesas_Synergy_S1-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1591,8 +1591,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_STC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_STC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1603,8 +1603,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32C0-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32C0-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1615,8 +1615,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F0-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F0-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1627,8 +1627,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F1-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F1-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1639,8 +1639,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F2-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F2-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1651,8 +1651,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F3-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F3-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1663,8 +1663,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F4-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F4-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1675,8 +1675,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32F7-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32F7-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1687,8 +1687,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32G0-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32G0-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1699,8 +1699,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32G4-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32G4-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1711,8 +1711,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32H7-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32H7-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1723,8 +1723,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32L0-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32L0-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1735,8 +1735,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32L1-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32L1-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1747,8 +1747,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32L4-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32L4-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1759,8 +1759,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32L5-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32L5-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1771,8 +1771,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32MP1-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32MP1-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1783,8 +1783,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32U5-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32U5-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1795,8 +1795,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32WB-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32WB-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1807,8 +1807,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM32WL-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM32WL-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1819,8 +1819,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_ST_STM8-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_ST_STM8-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1831,8 +1831,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_SiFive-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_SiFive-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1843,8 +1843,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_SiliconLabs-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_SiliconLabs-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1855,8 +1855,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Texas-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Texas-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1867,8 +1867,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Texas_MSP430-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Texas_MSP430-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1879,8 +1879,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_MCU_Texas_SimpleLink-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_MCU_Texas_SimpleLink-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1891,8 +1891,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Mechanical-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Mechanical-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1903,8 +1903,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_EEPROM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_EEPROM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1915,8 +1915,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_EPROM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_EPROM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1927,8 +1927,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_Flash-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_Flash-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1939,8 +1939,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_NVRAM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_NVRAM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1951,8 +1951,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_RAM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_RAM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1963,8 +1963,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_ROM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_ROM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1975,8 +1975,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Memory_UniqueID-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Memory_UniqueID-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1987,8 +1987,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Motor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Motor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -1999,8 +1999,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Oscillator-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Oscillator-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2011,8 +2011,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Potentiometer_Digital-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Potentiometer_Digital-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2023,8 +2023,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Power_Management-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Power_Management-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2035,8 +2035,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Power_Protection-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Power_Protection-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2047,8 +2047,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Power_Supervisor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Power_Supervisor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2059,8 +2059,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2071,8 +2071,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_AM_FM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_AM_FM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2083,8 +2083,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Amplifier-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Amplifier-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2095,8 +2095,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Bluetooth-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Bluetooth-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2107,8 +2107,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Filter-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Filter-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2119,8 +2119,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_GPS-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_GPS-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2131,8 +2131,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_GSM-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_GSM-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2143,8 +2143,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Mixer-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Mixer-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2155,8 +2155,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Module-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Module-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2167,8 +2167,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_NFC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_NFC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2179,8 +2179,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_RFID-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_RFID-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2191,8 +2191,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_Switch-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_Switch-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2203,8 +2203,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_WiFi-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_WiFi-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2215,8 +2215,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_RF_ZigBee-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_RF_ZigBee-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2227,8 +2227,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Reference_Current-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Reference_Current-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2239,8 +2239,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Reference_Voltage-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Reference_Voltage-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2251,8 +2251,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Regulator_Controller-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Regulator_Controller-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2263,8 +2263,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Regulator_Current-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Regulator_Current-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2275,8 +2275,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Regulator_Linear-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Regulator_Linear-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2287,8 +2287,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Regulator_SwitchedCapacitor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Regulator_SwitchedCapacitor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2299,8 +2299,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Regulator_Switching-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Regulator_Switching-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2311,8 +2311,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Relay-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Relay-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2323,8 +2323,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Relay_SolidState-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Relay_SolidState-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2335,8 +2335,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Security-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Security-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2347,8 +2347,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2359,8 +2359,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Audio-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Audio-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2371,8 +2371,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Current-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Current-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2383,8 +2383,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Distance-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Distance-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2395,8 +2395,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Energy-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Energy-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2407,8 +2407,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Gas-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Gas-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2419,8 +2419,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Humidity-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Humidity-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2431,8 +2431,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Magnetic-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Magnetic-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2443,8 +2443,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Motion-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Motion-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2455,8 +2455,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Optical-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Optical-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2467,8 +2467,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Pressure-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Pressure-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2479,8 +2479,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Proximity-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Proximity-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2491,8 +2491,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Temperature-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Temperature-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2503,8 +2503,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Touch-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Touch-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2515,8 +2515,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Sensor_Voltage-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Sensor_Voltage-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2527,8 +2527,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Simulation_SPICE-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Simulation_SPICE-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2539,8 +2539,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Switch-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Switch-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2551,8 +2551,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Timer-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Timer-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2563,8 +2563,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Timer_PLL-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Timer_PLL-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2575,8 +2575,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Timer_RTC-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Timer_RTC-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2587,8 +2587,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transformer-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transformer-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2599,8 +2599,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transistor_Array-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transistor_Array-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2611,8 +2611,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transistor_BJT-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transistor_BJT-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2623,8 +2623,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transistor_FET-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transistor_FET-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2635,8 +2635,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transistor_IGBT-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transistor_IGBT-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2647,8 +2647,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Transistor_Power_Module-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Transistor_Power_Module-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2659,8 +2659,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Triac_Thyristor-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Triac_Thyristor-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2671,8 +2671,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Valve-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Valve-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2683,8 +2683,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_Video-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_Video-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
@@ -2695,8 +2695,8 @@
         "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
         "releases": [
             {
-                "version": "0.0.2",
-                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.2/kicad_lib_symbols_power-v0.0.2.zip",
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-kicad-libraries/releases/download/v0.0.3/kicad_lib_symbols_power-v0.0.3.zip",
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
