@@ -79,5 +79,17 @@
 				}
 			}
 		]
+	},
+	"sample_kpm_package_3": {
+		"owner": "danroblewis",
+		"homepage": "https://github.com/danroblewis/kpm-jlcpcb-basic",
+		"releases": [
+			{
+				"version": "0.0.1",
+				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip",
+				"author": "danroblewis",
+				"dependencies": {}
+			}
+		]
 	}
 }
