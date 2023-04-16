@@ -118,7 +118,23 @@
 				"version": "0.0.1",
 				"artifact_url": "https://github.com/danroblewis/kicad-eurorack-tools/releases/download/kpm_v0.0.1/kpm-eurorack-tools.zip",
 				"author": "danroblewis",
-				"dependencies": {}
+				"dependencies": {
+					"kicad_lib_footprints_Button_Switch_SMD": "0.0.4",
+					"kicad_lib_footprints_Capacitor_SMD": "0.0.4",
+					"kicad_lib_footprints_Capacitor_THT": "0.0.4",
+					"kicad_lib_footprints_Connector_Audio": "0.0.4",
+					"kicad_lib_footprints_Connector_IDC": "0.0.4",
+					"kicad_lib_footprints_Connector_PinHeader_2.54mm": "0.0.4",
+					"kicad_lib_footprints_Diode_SMD": "0.0.4",
+					"kicad_lib_footprints_EuroRackTools": "0.0.4",
+					"kicad_lib_footprints_LED_SMD": "0.0.4",
+					"kicad_lib_footprints_Package_QFP": "0.0.4",
+					"kicad_lib_footprints_Package_SO": "0.0.4",
+					"kicad_lib_footprints_Package_TO_SOT_SMD": "0.0.4",
+					"kicad_lib_footprints_Potentiometer_SMD": "0.0.4",
+					"kicad_lib_footprints_Potentiometer_THT": "0.0.4",
+					"kicad_lib_footprints_Resistor_SMD": "0.0.4"
+				}
 			}
 		]
 	},
