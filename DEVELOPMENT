@@ -1,0 +1,49 @@
+Registry API spec maybe
+
+Release record:
+{
+	"description": string
+	"artifact_url": string
+	"version": string?
+	"author": user_id
+	"depedencies": hashmap of string to string
+	"created_at": timestamp
+}
+
+Package record:
+{
+	"package_id": package_id
+	"name": string
+	"owner": user_id
+	"description": string
+	"homepage": string
+	"releases": array of Release records
+	"created_at": timestamp
+}
+
+User record:
+{
+	"user_id": id
+	"name": string
+	"email": string
+	"api_tokens": array of strings
+	"password_hash": string
+	"created_at": timestamp
+}
+
+
+Endpoints:
+
+GET /package/<packagename>
+returns json Package record
+
+GET /packages?term=<term>
+returns list of Package records
+
+PUT /package/<packagename>
+authenticates with HTTP header: Authorization
+receives json post-data: full Package record
+
+PUT /package/<packagename>/release/<version>/<filename>
+receives file data
+returns 
