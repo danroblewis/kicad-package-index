@@ -1,149 +1,154 @@
-{
-	"sample_kpm_package": {
-		"owner": "danroblewis",
-		"homepage": "https://github.com/danroblewis/sample_kpm_package",
-		"releases": [
-			{
-				"version": "0.0.1",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.1.zip",
-				"author": "danroblewis"
-			},
-			{
-				"version": "0.0.2",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.2.zip",
-				"author": "danroblewis"
-			},
-			{
-				"version": "0.0.3",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.3.zip",
-				"author": "danroblewis"
-			}
-		]
-	},
-	"sample_kpm_package_2": {
-		"owner": "danroblewis",
-		"homepage": "https://github.com/danroblewis/sample_kpm_package_2",
-		"releases": [
-			{
-				"version": "0.0.1",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.1.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package": "0.0.1"
-				}
-			},
-			{
-				"version": "0.0.2",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.2.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package": "0.0.2"
-				}
-			},
-			{
-				"version": "0.0.3",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.3.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package": "0.0.3"
-				}
-			}
-		]
-	},
-	"sample_kpm_package_3": {
-		"owner": "danroblewis",
-		"homepage": "https://github.com/danroblewis/sample_kpm_package_3",
-		"releases": [
-			{
-				"version": "0.0.1",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.1.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package_2": "0.0.1"
-				}
-			},
-			{
-				"version": "0.0.2",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.2.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package_2": "0.0.2"
-				}
-			},
-			{
-				"version": "0.0.3",
-				"artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.3.zip",
-				"author": "danroblewis",
-				"dependencies": {
-					"sample_kpm_package_2": "0.0.3"
-				}
-			}
-		]
-	},
-	"kpm-jlcpcb-basic": {
-		"owner": "danroblewis",
-		"homepage": "https://github.com/danroblewis/kpm-jlcpcb-basic",
-		"releases": [
-			{
-				"version": "0.0.1",
-				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip",
-				"author": "danroblewis",
-				"dependencies": {}
-			},
-			{
-				"version": "0.0.2",
-				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.2.zip",
-				"author": "danroblewis",
-				"dependencies": {}
-			},
-			{
-				"version": "0.0.3",
-				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.3.zip",
-				"author": "danroblewis",
-				"dependencies": {}
-			},
-			{
-				"version": "0.0.4",
-				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.4.zip",
-				"author": "danroblewis",
-				"dependencies": {}
-			},
-			{
-				"version": "0.0.5",
-				"artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.5.zip",
-				"author": "danroblewis",
-				"dependencies": {}
-			}
-		]
-	},
-	"eurorack-parts": {
-		"owner": "danroblewis",
-		"homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
-		"releases": [
-			{
-				"version": "0.0.1",
-				"artifact_url": "https://github.com/danroblewis/kicad-eurorack-tools/releases/download/kpm_v0.0.1/kpm-eurorack-tools.zip",
-				"author": "danroblewis",
-				"dependencies": {
-				    "kicad_lib_footprints_Button_Switch_SMD": "0.0.6",
-				    "kicad_lib_footprints_Capacitor_SMD": "0.0.6",
-				    "kicad_lib_footprints_Capacitor_THT": "0.0.6",
-				    "kicad_lib_footprints_Connector_Audio": "0.0.6",
-				    "kicad_lib_footprints_Connector_IDC": "0.0.6",
-				    "kicad_lib_footprints_Connector_PinHeader_2.54mm": "0.0.6",
-				    "kicad_lib_footprints_Diode_SMD": "0.0.6",
-				    "kicad_lib_footprints_LED_SMD": "0.0.6",
-				    "kicad_lib_footprints_Package_QFP": "0.0.6",
-				    "kicad_lib_footprints_Package_SO": "0.0.6",
-				    "kicad_lib_footprints_Package_TO_SOT_SMD": "0.0.6",
-				    "kicad_lib_footprints_Potentiometer_SMD": "0.0.6",
-				    "kicad_lib_footprints_Potentiometer_THT": "0.0.6",
-				    "kicad_lib_footprints_Resistor_SMD": "0.0.6"
-				}
-			}
-		]
-	},
-    "kicad_lib_symbols_4xxx": {
+[
+    {
+        "owner": "danroblewis",
+        "homepage": "https://github.com/danroblewis/sample_kpm_package",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.1.zip",
+                "author": "danroblewis"
+            },
+            {
+                "version": "0.0.2",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.2.zip",
+                "author": "danroblewis"
+            },
+            {
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package/archive/refs/tags/v0.0.3.zip",
+                "author": "danroblewis"
+            }
+        ],
+        "name": "sample_kpm_package"
+    },
+    {
+        "owner": "danroblewis",
+        "homepage": "https://github.com/danroblewis/sample_kpm_package_2",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.1.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package": "0.0.1"
+                }
+            },
+            {
+                "version": "0.0.2",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.2.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package": "0.0.2"
+                }
+            },
+            {
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_2/archive/refs/tags/v0.0.3.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package": "0.0.3"
+                }
+            }
+        ],
+        "name": "sample_kpm_package_2"
+    },
+    {
+        "owner": "danroblewis",
+        "homepage": "https://github.com/danroblewis/sample_kpm_package_3",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.1.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package_2": "0.0.1"
+                }
+            },
+            {
+                "version": "0.0.2",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.2.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package_2": "0.0.2"
+                }
+            },
+            {
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/sample_kpm_package_3/archive/refs/tags/v0.0.3.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "sample_kpm_package_2": "0.0.3"
+                }
+            }
+        ],
+        "name": "sample_kpm_package_3"
+    },
+    {
+        "owner": "danroblewis",
+        "homepage": "https://github.com/danroblewis/kpm-jlcpcb-basic",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip",
+                "author": "danroblewis",
+                "dependencies": {}
+            },
+            {
+                "version": "0.0.2",
+                "artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.2.zip",
+                "author": "danroblewis",
+                "dependencies": {}
+            },
+            {
+                "version": "0.0.3",
+                "artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.3.zip",
+                "author": "danroblewis",
+                "dependencies": {}
+            },
+            {
+                "version": "0.0.4",
+                "artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.4.zip",
+                "author": "danroblewis",
+                "dependencies": {}
+            },
+            {
+                "version": "0.0.5",
+                "artifact_url": "https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.5.zip",
+                "author": "danroblewis",
+                "dependencies": {}
+            }
+        ],
+        "name": "kpm-jlcpcb-basic"
+    },
+    {
+        "owner": "danroblewis",
+        "homepage": "https://github.com/danroblewis/kicad-eurorack-tools",
+        "releases": [
+            {
+                "version": "0.0.1",
+                "artifact_url": "https://github.com/danroblewis/kicad-eurorack-tools/releases/download/kpm_v0.0.1/kpm-eurorack-tools.zip",
+                "author": "danroblewis",
+                "dependencies": {
+                    "kicad_lib_footprints_Button_Switch_SMD": "0.0.6",
+                    "kicad_lib_footprints_Capacitor_SMD": "0.0.6",
+                    "kicad_lib_footprints_Capacitor_THT": "0.0.6",
+                    "kicad_lib_footprints_Connector_Audio": "0.0.6",
+                    "kicad_lib_footprints_Connector_IDC": "0.0.6",
+                    "kicad_lib_footprints_Connector_PinHeader_2.54mm": "0.0.6",
+                    "kicad_lib_footprints_Diode_SMD": "0.0.6",
+                    "kicad_lib_footprints_LED_SMD": "0.0.6",
+                    "kicad_lib_footprints_Package_QFP": "0.0.6",
+                    "kicad_lib_footprints_Package_SO": "0.0.6",
+                    "kicad_lib_footprints_Package_TO_SOT_SMD": "0.0.6",
+                    "kicad_lib_footprints_Potentiometer_SMD": "0.0.6",
+                    "kicad_lib_footprints_Potentiometer_THT": "0.0.6",
+                    "kicad_lib_footprints_Resistor_SMD": "0.0.6"
+                }
+            }
+        ],
+        "name": "eurorack-parts"
+    },
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -153,9 +158,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_4xxx"
     },
-    "kicad_lib_symbols_4xxx_IEEE": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -165,9 +171,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_4xxx_IEEE"
     },
-    "kicad_lib_symbols_74xGxx": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -177,9 +184,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_74xGxx"
     },
-    "kicad_lib_symbols_74xx": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -189,9 +197,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_74xx"
     },
-    "kicad_lib_symbols_74xx_IEEE": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -201,9 +210,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_74xx_IEEE"
     },
-    "kicad_lib_symbols_Amplifier_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -213,9 +223,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Audio"
     },
-    "kicad_lib_symbols_Amplifier_Buffer": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -225,9 +236,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Buffer"
     },
-    "kicad_lib_symbols_Amplifier_Current": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -237,9 +249,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Current"
     },
-    "kicad_lib_symbols_Amplifier_Difference": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -249,9 +262,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Difference"
     },
-    "kicad_lib_symbols_Amplifier_Instrumentation": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -261,9 +275,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Instrumentation"
     },
-    "kicad_lib_symbols_Amplifier_Operational": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -273,9 +288,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Operational"
     },
-    "kicad_lib_symbols_Amplifier_Video": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -285,9 +301,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Amplifier_Video"
     },
-    "kicad_lib_symbols_Analog": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -297,9 +314,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Analog"
     },
-    "kicad_lib_symbols_Analog_ADC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -309,9 +327,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Analog_ADC"
     },
-    "kicad_lib_symbols_Analog_DAC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -321,9 +340,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Analog_DAC"
     },
-    "kicad_lib_symbols_Analog_Switch": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -333,9 +353,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Analog_Switch"
     },
-    "kicad_lib_symbols_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -345,9 +366,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Audio"
     },
-    "kicad_lib_symbols_Battery_Management": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -357,9 +379,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Battery_Management"
     },
-    "kicad_lib_symbols_Buffer": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -369,9 +392,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Buffer"
     },
-    "kicad_lib_symbols_CPLD_Altera": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -381,9 +405,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPLD_Altera"
     },
-    "kicad_lib_symbols_CPLD_Microchip": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -393,9 +418,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPLD_Microchip"
     },
-    "kicad_lib_symbols_CPLD_Xilinx": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -405,9 +431,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPLD_Xilinx"
     },
-    "kicad_lib_symbols_CPU": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -417,9 +444,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPU"
     },
-    "kicad_lib_symbols_CPU_NXP_6800": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -429,9 +457,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPU_NXP_6800"
     },
-    "kicad_lib_symbols_CPU_NXP_68000": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -441,9 +470,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPU_NXP_68000"
     },
-    "kicad_lib_symbols_CPU_NXP_IMX": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -453,9 +483,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPU_NXP_IMX"
     },
-    "kicad_lib_symbols_CPU_PowerPC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -465,9 +496,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_CPU_PowerPC"
     },
-    "kicad_lib_symbols_Comparator": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -477,9 +509,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Comparator"
     },
-    "kicad_lib_symbols_Connector": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -489,9 +522,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Connector"
     },
-    "kicad_lib_symbols_Connector_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -501,9 +535,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Connector_Audio"
     },
-    "kicad_lib_symbols_Connector_Generic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -513,9 +548,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Connector_Generic"
     },
-    "kicad_lib_symbols_Connector_Generic_MountingPin": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -525,9 +561,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Connector_Generic_MountingPin"
     },
-    "kicad_lib_symbols_Connector_Generic_Shielded": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -537,9 +574,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Connector_Generic_Shielded"
     },
-    "kicad_lib_symbols_Converter_ACDC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -549,9 +587,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Converter_ACDC"
     },
-    "kicad_lib_symbols_Converter_DCDC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -561,9 +600,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Converter_DCDC"
     },
-    "kicad_lib_symbols_DSP_AnalogDevices": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -573,9 +613,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_DSP_AnalogDevices"
     },
-    "kicad_lib_symbols_DSP_Freescale": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -585,9 +626,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_DSP_Freescale"
     },
-    "kicad_lib_symbols_DSP_Microchip_DSPIC33": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -597,9 +639,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_DSP_Microchip_DSPIC33"
     },
-    "kicad_lib_symbols_DSP_Motorola": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -609,9 +652,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_DSP_Motorola"
     },
-    "kicad_lib_symbols_DSP_Texas": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -621,9 +665,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_DSP_Texas"
     },
-    "kicad_lib_symbols_Device": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -633,9 +678,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Device"
     },
-    "kicad_lib_symbols_Diode": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -645,9 +691,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Diode"
     },
-    "kicad_lib_symbols_Diode_Bridge": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -657,9 +704,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Diode_Bridge"
     },
-    "kicad_lib_symbols_Diode_Laser": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -669,9 +717,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Diode_Laser"
     },
-    "kicad_lib_symbols_Display_Character": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -681,9 +730,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Display_Character"
     },
-    "kicad_lib_symbols_Display_Graphic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -693,9 +743,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Display_Graphic"
     },
-    "kicad_lib_symbols_Driver_Display": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -705,9 +756,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_Display"
     },
-    "kicad_lib_symbols_Driver_FET": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -717,9 +769,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_FET"
     },
-    "kicad_lib_symbols_Driver_Haptic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -729,9 +782,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_Haptic"
     },
-    "kicad_lib_symbols_Driver_LED": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -741,9 +795,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_LED"
     },
-    "kicad_lib_symbols_Driver_Motor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -753,9 +808,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_Motor"
     },
-    "kicad_lib_symbols_Driver_Relay": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -765,9 +821,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_Relay"
     },
-    "kicad_lib_symbols_Driver_TEC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -777,9 +834,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Driver_TEC"
     },
-    "kicad_lib_symbols_FPGA_CologneChip_GateMate": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -789,9 +847,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_CologneChip_GateMate"
     },
-    "kicad_lib_symbols_FPGA_Efinix_Trion": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -801,9 +860,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Efinix_Trion"
     },
-    "kicad_lib_symbols_FPGA_Lattice": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -813,9 +873,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Lattice"
     },
-    "kicad_lib_symbols_FPGA_Microsemi": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -825,9 +886,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Microsemi"
     },
-    "kicad_lib_symbols_FPGA_Xilinx": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -837,9 +899,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Artix7": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -849,9 +912,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Artix7"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Kintex7": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -861,9 +925,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Kintex7"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Spartan6": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -873,9 +938,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Spartan6"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Virtex5": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -885,9 +951,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Virtex5"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Virtex6": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -897,9 +964,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Virtex6"
     },
-    "kicad_lib_symbols_FPGA_Xilinx_Virtex7": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -909,9 +977,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_FPGA_Xilinx_Virtex7"
     },
-    "kicad_lib_symbols_Fiber_Optic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -921,9 +990,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Fiber_Optic"
     },
-    "kicad_lib_symbols_Filter": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -933,9 +1003,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Filter"
     },
-    "kicad_lib_symbols_GPU": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -945,9 +1016,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_GPU"
     },
-    "kicad_lib_symbols_Graphic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -957,9 +1029,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Graphic"
     },
-    "kicad_lib_symbols_Interface": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -969,9 +1042,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface"
     },
-    "kicad_lib_symbols_Interface_CAN_LIN": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -981,9 +1055,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_CAN_LIN"
     },
-    "kicad_lib_symbols_Interface_CurrentLoop": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -993,9 +1068,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_CurrentLoop"
     },
-    "kicad_lib_symbols_Interface_Ethernet": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1005,9 +1081,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_Ethernet"
     },
-    "kicad_lib_symbols_Interface_Expansion": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1017,9 +1094,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_Expansion"
     },
-    "kicad_lib_symbols_Interface_HDMI": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1029,9 +1107,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_HDMI"
     },
-    "kicad_lib_symbols_Interface_HID": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1041,9 +1120,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_HID"
     },
-    "kicad_lib_symbols_Interface_LineDriver": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1053,9 +1133,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_LineDriver"
     },
-    "kicad_lib_symbols_Interface_Optical": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1065,9 +1146,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_Optical"
     },
-    "kicad_lib_symbols_Interface_Telecom": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1077,9 +1159,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_Telecom"
     },
-    "kicad_lib_symbols_Interface_UART": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1089,9 +1172,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_UART"
     },
-    "kicad_lib_symbols_Interface_USB": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1101,9 +1185,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Interface_USB"
     },
-    "kicad_lib_symbols_Isolator": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1113,9 +1198,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Isolator"
     },
-    "kicad_lib_symbols_Isolator_Analog": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1125,9 +1211,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Isolator_Analog"
     },
-    "kicad_lib_symbols_Jumper": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1137,9 +1224,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Jumper"
     },
-    "kicad_lib_symbols_LED": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1149,9 +1237,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_LED"
     },
-    "kicad_lib_symbols_Logic_LevelTranslator": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1161,9 +1250,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Logic_LevelTranslator"
     },
-    "kicad_lib_symbols_Logic_Programmable": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1173,9 +1263,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Logic_Programmable"
     },
-    "kicad_lib_symbols_MCU_AnalogDevices": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1185,9 +1276,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_AnalogDevices"
     },
-    "kicad_lib_symbols_MCU_Cypress": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1197,9 +1289,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Cypress"
     },
-    "kicad_lib_symbols_MCU_Dialog": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1209,9 +1302,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Dialog"
     },
-    "kicad_lib_symbols_MCU_Espressif": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1221,9 +1315,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Espressif"
     },
-    "kicad_lib_symbols_MCU_Intel": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1233,9 +1328,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Intel"
     },
-    "kicad_lib_symbols_MCU_Microchip_8051": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1245,9 +1341,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_8051"
     },
-    "kicad_lib_symbols_MCU_Microchip_ATmega": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1257,9 +1354,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_ATmega"
     },
-    "kicad_lib_symbols_MCU_Microchip_ATtiny": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1269,9 +1367,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_ATtiny"
     },
-    "kicad_lib_symbols_MCU_Microchip_AVR": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1281,9 +1380,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_AVR"
     },
-    "kicad_lib_symbols_MCU_Microchip_AVR_Dx": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1293,9 +1393,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_AVR_Dx"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC10": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1305,9 +1406,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC10"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC12": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1317,9 +1419,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC12"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC16": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1329,9 +1432,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC16"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC18": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1341,9 +1445,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC18"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC24": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1353,9 +1458,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC24"
     },
-    "kicad_lib_symbols_MCU_Microchip_PIC32": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1365,9 +1471,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_PIC32"
     },
-    "kicad_lib_symbols_MCU_Microchip_SAMA": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1377,9 +1484,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_SAMA"
     },
-    "kicad_lib_symbols_MCU_Microchip_SAMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1389,9 +1497,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_SAMD"
     },
-    "kicad_lib_symbols_MCU_Microchip_SAME": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1401,9 +1510,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_SAME"
     },
-    "kicad_lib_symbols_MCU_Microchip_SAML": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1413,9 +1523,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_SAML"
     },
-    "kicad_lib_symbols_MCU_Microchip_SAMV": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1425,9 +1536,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Microchip_SAMV"
     },
-    "kicad_lib_symbols_MCU_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1437,9 +1549,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Module"
     },
-    "kicad_lib_symbols_MCU_NXP_ColdFire": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1449,9 +1562,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_ColdFire"
     },
-    "kicad_lib_symbols_MCU_NXP_HC11": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1461,9 +1575,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_HC11"
     },
-    "kicad_lib_symbols_MCU_NXP_HC12": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1473,9 +1588,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_HC12"
     },
-    "kicad_lib_symbols_MCU_NXP_HCS12": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1485,9 +1601,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_HCS12"
     },
-    "kicad_lib_symbols_MCU_NXP_Kinetis": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1497,9 +1614,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_Kinetis"
     },
-    "kicad_lib_symbols_MCU_NXP_LPC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1509,9 +1627,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_LPC"
     },
-    "kicad_lib_symbols_MCU_NXP_MAC7100": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1521,9 +1640,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_MAC7100"
     },
-    "kicad_lib_symbols_MCU_NXP_MCore": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1533,9 +1653,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_MCore"
     },
-    "kicad_lib_symbols_MCU_NXP_NTAG": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1545,9 +1666,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_NTAG"
     },
-    "kicad_lib_symbols_MCU_NXP_S08": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1557,9 +1679,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_NXP_S08"
     },
-    "kicad_lib_symbols_MCU_Nordic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1569,9 +1692,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Nordic"
     },
-    "kicad_lib_symbols_MCU_Parallax": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1581,9 +1705,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Parallax"
     },
-    "kicad_lib_symbols_MCU_RaspberryPi": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1593,9 +1718,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_RaspberryPi"
     },
-    "kicad_lib_symbols_MCU_Renesas_Synergy_S1": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1605,9 +1731,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Renesas_Synergy_S1"
     },
-    "kicad_lib_symbols_MCU_STC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1617,9 +1744,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_STC"
     },
-    "kicad_lib_symbols_MCU_ST_STM32C0": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1629,9 +1757,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32C0"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F0": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1641,9 +1770,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F0"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F1": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1653,9 +1783,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F1"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F2": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1665,9 +1796,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F2"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F3": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1677,9 +1809,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F3"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F4": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1689,9 +1822,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F4"
     },
-    "kicad_lib_symbols_MCU_ST_STM32F7": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1701,9 +1835,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32F7"
     },
-    "kicad_lib_symbols_MCU_ST_STM32G0": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1713,9 +1848,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32G0"
     },
-    "kicad_lib_symbols_MCU_ST_STM32G4": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1725,9 +1861,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32G4"
     },
-    "kicad_lib_symbols_MCU_ST_STM32H7": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1737,9 +1874,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32H7"
     },
-    "kicad_lib_symbols_MCU_ST_STM32L0": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1749,9 +1887,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32L0"
     },
-    "kicad_lib_symbols_MCU_ST_STM32L1": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1761,9 +1900,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32L1"
     },
-    "kicad_lib_symbols_MCU_ST_STM32L4": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1773,9 +1913,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32L4"
     },
-    "kicad_lib_symbols_MCU_ST_STM32L5": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1785,9 +1926,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32L5"
     },
-    "kicad_lib_symbols_MCU_ST_STM32MP1": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1797,9 +1939,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32MP1"
     },
-    "kicad_lib_symbols_MCU_ST_STM32U5": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1809,9 +1952,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32U5"
     },
-    "kicad_lib_symbols_MCU_ST_STM32WB": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1821,9 +1965,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32WB"
     },
-    "kicad_lib_symbols_MCU_ST_STM32WL": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1833,9 +1978,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM32WL"
     },
-    "kicad_lib_symbols_MCU_ST_STM8": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1845,9 +1991,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_ST_STM8"
     },
-    "kicad_lib_symbols_MCU_SiFive": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1857,9 +2004,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_SiFive"
     },
-    "kicad_lib_symbols_MCU_SiliconLabs": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1869,9 +2017,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_SiliconLabs"
     },
-    "kicad_lib_symbols_MCU_Texas": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1881,9 +2030,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Texas"
     },
-    "kicad_lib_symbols_MCU_Texas_MSP430": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1893,9 +2043,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Texas_MSP430"
     },
-    "kicad_lib_symbols_MCU_Texas_SimpleLink": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1905,9 +2056,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_MCU_Texas_SimpleLink"
     },
-    "kicad_lib_symbols_Mechanical": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1917,9 +2069,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Mechanical"
     },
-    "kicad_lib_symbols_Memory_EEPROM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1929,9 +2082,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_EEPROM"
     },
-    "kicad_lib_symbols_Memory_EPROM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1941,9 +2095,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_EPROM"
     },
-    "kicad_lib_symbols_Memory_Flash": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1953,9 +2108,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_Flash"
     },
-    "kicad_lib_symbols_Memory_NVRAM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1965,9 +2121,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_NVRAM"
     },
-    "kicad_lib_symbols_Memory_RAM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1977,9 +2134,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_RAM"
     },
-    "kicad_lib_symbols_Memory_ROM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -1989,9 +2147,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_ROM"
     },
-    "kicad_lib_symbols_Memory_UniqueID": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2001,9 +2160,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Memory_UniqueID"
     },
-    "kicad_lib_symbols_Motor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2013,9 +2173,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Motor"
     },
-    "kicad_lib_symbols_Oscillator": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2025,9 +2186,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Oscillator"
     },
-    "kicad_lib_symbols_Potentiometer_Digital": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2037,9 +2199,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Potentiometer_Digital"
     },
-    "kicad_lib_symbols_Power_Management": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2049,9 +2212,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Power_Management"
     },
-    "kicad_lib_symbols_Power_Protection": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2061,9 +2225,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Power_Protection"
     },
-    "kicad_lib_symbols_Power_Supervisor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2073,9 +2238,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Power_Supervisor"
     },
-    "kicad_lib_symbols_RF": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2085,9 +2251,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF"
     },
-    "kicad_lib_symbols_RF_AM_FM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2097,9 +2264,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_AM_FM"
     },
-    "kicad_lib_symbols_RF_Amplifier": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2109,9 +2277,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Amplifier"
     },
-    "kicad_lib_symbols_RF_Bluetooth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2121,9 +2290,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Bluetooth"
     },
-    "kicad_lib_symbols_RF_Filter": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2133,9 +2303,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Filter"
     },
-    "kicad_lib_symbols_RF_GPS": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2145,9 +2316,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_GPS"
     },
-    "kicad_lib_symbols_RF_GSM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2157,9 +2329,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_GSM"
     },
-    "kicad_lib_symbols_RF_Mixer": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2169,9 +2342,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Mixer"
     },
-    "kicad_lib_symbols_RF_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2181,9 +2355,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Module"
     },
-    "kicad_lib_symbols_RF_NFC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2193,9 +2368,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_NFC"
     },
-    "kicad_lib_symbols_RF_RFID": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2205,9 +2381,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_RFID"
     },
-    "kicad_lib_symbols_RF_Switch": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2217,9 +2394,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_Switch"
     },
-    "kicad_lib_symbols_RF_WiFi": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2229,9 +2407,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_WiFi"
     },
-    "kicad_lib_symbols_RF_ZigBee": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2241,9 +2420,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_RF_ZigBee"
     },
-    "kicad_lib_symbols_Reference_Current": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2253,9 +2433,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Reference_Current"
     },
-    "kicad_lib_symbols_Reference_Voltage": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2265,9 +2446,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Reference_Voltage"
     },
-    "kicad_lib_symbols_Regulator_Controller": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2277,9 +2459,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Regulator_Controller"
     },
-    "kicad_lib_symbols_Regulator_Current": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2289,9 +2472,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Regulator_Current"
     },
-    "kicad_lib_symbols_Regulator_Linear": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2301,9 +2485,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Regulator_Linear"
     },
-    "kicad_lib_symbols_Regulator_SwitchedCapacitor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2313,9 +2498,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Regulator_SwitchedCapacitor"
     },
-    "kicad_lib_symbols_Regulator_Switching": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2325,9 +2511,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Regulator_Switching"
     },
-    "kicad_lib_symbols_Relay": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2337,9 +2524,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Relay"
     },
-    "kicad_lib_symbols_Relay_SolidState": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2349,9 +2537,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Relay_SolidState"
     },
-    "kicad_lib_symbols_Security": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2361,9 +2550,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Security"
     },
-    "kicad_lib_symbols_Sensor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2373,9 +2563,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor"
     },
-    "kicad_lib_symbols_Sensor_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2385,9 +2576,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Audio"
     },
-    "kicad_lib_symbols_Sensor_Current": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2397,9 +2589,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Current"
     },
-    "kicad_lib_symbols_Sensor_Distance": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2409,9 +2602,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Distance"
     },
-    "kicad_lib_symbols_Sensor_Energy": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2421,9 +2615,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Energy"
     },
-    "kicad_lib_symbols_Sensor_Gas": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2433,9 +2628,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Gas"
     },
-    "kicad_lib_symbols_Sensor_Humidity": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2445,9 +2641,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Humidity"
     },
-    "kicad_lib_symbols_Sensor_Magnetic": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2457,9 +2654,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Magnetic"
     },
-    "kicad_lib_symbols_Sensor_Motion": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2469,9 +2667,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Motion"
     },
-    "kicad_lib_symbols_Sensor_Optical": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2481,9 +2680,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Optical"
     },
-    "kicad_lib_symbols_Sensor_Pressure": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2493,9 +2693,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Pressure"
     },
-    "kicad_lib_symbols_Sensor_Proximity": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2505,9 +2706,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Proximity"
     },
-    "kicad_lib_symbols_Sensor_Temperature": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2517,9 +2719,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Temperature"
     },
-    "kicad_lib_symbols_Sensor_Touch": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2529,9 +2732,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Touch"
     },
-    "kicad_lib_symbols_Sensor_Voltage": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2541,9 +2745,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Sensor_Voltage"
     },
-    "kicad_lib_symbols_Simulation_SPICE": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2553,9 +2758,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Simulation_SPICE"
     },
-    "kicad_lib_symbols_Switch": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2565,9 +2771,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Switch"
     },
-    "kicad_lib_symbols_Timer": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2577,9 +2784,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Timer"
     },
-    "kicad_lib_symbols_Timer_PLL": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2589,9 +2797,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Timer_PLL"
     },
-    "kicad_lib_symbols_Timer_RTC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2601,9 +2810,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Timer_RTC"
     },
-    "kicad_lib_symbols_Transformer": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2613,9 +2823,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transformer"
     },
-    "kicad_lib_symbols_Transistor_Array": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2625,9 +2836,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transistor_Array"
     },
-    "kicad_lib_symbols_Transistor_BJT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2637,9 +2849,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transistor_BJT"
     },
-    "kicad_lib_symbols_Transistor_FET": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2649,9 +2862,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transistor_FET"
     },
-    "kicad_lib_symbols_Transistor_IGBT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2661,9 +2875,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transistor_IGBT"
     },
-    "kicad_lib_symbols_Transistor_Power_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2673,9 +2888,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Transistor_Power_Module"
     },
-    "kicad_lib_symbols_Triac_Thyristor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2685,9 +2901,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Triac_Thyristor"
     },
-    "kicad_lib_symbols_Valve": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2697,9 +2914,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Valve"
     },
-    "kicad_lib_symbols_Video": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2709,9 +2927,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_Video"
     },
-    "kicad_lib_symbols_power": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-symbols",
         "releases": [
@@ -2721,9 +2940,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_symbols_power"
     },
-    "kicad_lib_footprints_Audio_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2733,9 +2953,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Audio_Module"
     },
-    "kicad_lib_footprints_Battery": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2745,9 +2966,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Battery"
     },
-    "kicad_lib_footprints_Button_Switch_Keyboard": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2757,9 +2979,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Button_Switch_Keyboard"
     },
-    "kicad_lib_footprints_Button_Switch_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2769,9 +2992,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Button_Switch_SMD"
     },
-    "kicad_lib_footprints_Button_Switch_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2781,9 +3005,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Button_Switch_THT"
     },
-    "kicad_lib_footprints_Buzzer_Beeper": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2793,9 +3018,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Buzzer_Beeper"
     },
-    "kicad_lib_footprints_Calibration_Scale": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2805,9 +3031,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Calibration_Scale"
     },
-    "kicad_lib_footprints_Capacitor_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2817,9 +3044,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Capacitor_SMD"
     },
-    "kicad_lib_footprints_Capacitor_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2829,9 +3057,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Capacitor_THT"
     },
-    "kicad_lib_footprints_Capacitor_Tantalum_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2841,9 +3070,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Capacitor_Tantalum_SMD"
     },
-    "kicad_lib_footprints_Connector": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2853,9 +3083,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector"
     },
-    "kicad_lib_footprints_Connector_AMASS": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2865,9 +3096,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_AMASS"
     },
-    "kicad_lib_footprints_Connector_Amphenol": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2877,9 +3109,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Amphenol"
     },
-    "kicad_lib_footprints_Connector_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2889,9 +3122,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Audio"
     },
-    "kicad_lib_footprints_Connector_BarrelJack": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2901,9 +3135,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_BarrelJack"
     },
-    "kicad_lib_footprints_Connector_Card": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2913,9 +3148,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Card"
     },
-    "kicad_lib_footprints_Connector_Coaxial": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2925,9 +3161,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Coaxial"
     },
-    "kicad_lib_footprints_Connector_DIN": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2937,9 +3174,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_DIN"
     },
-    "kicad_lib_footprints_Connector_Dsub": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2949,9 +3187,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Dsub"
     },
-    "kicad_lib_footprints_Connector_FFC-FPC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2961,9 +3200,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_FFC-FPC"
     },
-    "kicad_lib_footprints_Connector_HDMI": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2973,9 +3213,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_HDMI"
     },
-    "kicad_lib_footprints_Connector_Harting": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2985,9 +3226,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Harting"
     },
-    "kicad_lib_footprints_Connector_Harwin": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -2997,9 +3239,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Harwin"
     },
-    "kicad_lib_footprints_Connector_Hirose": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3009,9 +3252,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Hirose"
     },
-    "kicad_lib_footprints_Connector_IDC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3021,9 +3265,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_IDC"
     },
-    "kicad_lib_footprints_Connector_JAE": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3033,9 +3278,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_JAE"
     },
-    "kicad_lib_footprints_Connector_JST": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3045,9 +3291,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_JST"
     },
-    "kicad_lib_footprints_Connector_Molex": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3057,9 +3304,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Molex"
     },
-    "kicad_lib_footprints_Connector_PCBEdge": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3069,9 +3317,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PCBEdge"
     },
-    "kicad_lib_footprints_Connector_Phoenix_GMSTB": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3081,9 +3330,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Phoenix_GMSTB"
     },
-    "kicad_lib_footprints_Connector_Phoenix_MC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3093,9 +3343,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Phoenix_MC"
     },
-    "kicad_lib_footprints_Connector_Phoenix_MC_HighVoltage": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3105,9 +3356,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Phoenix_MC_HighVoltage"
     },
-    "kicad_lib_footprints_Connector_Phoenix_MSTB": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3117,9 +3369,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Phoenix_MSTB"
     },
-    "kicad_lib_footprints_Connector_Phoenix_SPT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3129,9 +3382,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Phoenix_SPT"
     },
-    "kicad_lib_footprints_Connector_Pin": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3141,9 +3395,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Pin"
     },
-    "kicad_lib_footprints_Connector_PinHeader_1.00mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3153,9 +3408,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinHeader_1.00mm"
     },
-    "kicad_lib_footprints_Connector_PinHeader_1.27mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3165,9 +3421,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinHeader_1.27mm"
     },
-    "kicad_lib_footprints_Connector_PinHeader_2.00mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3177,9 +3434,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinHeader_2.00mm"
     },
-    "kicad_lib_footprints_Connector_PinHeader_2.54mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3189,9 +3447,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinHeader_2.54mm"
     },
-    "kicad_lib_footprints_Connector_PinSocket_1.00mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3201,9 +3460,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinSocket_1.00mm"
     },
-    "kicad_lib_footprints_Connector_PinSocket_1.27mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3213,9 +3473,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinSocket_1.27mm"
     },
-    "kicad_lib_footprints_Connector_PinSocket_2.00mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3225,9 +3486,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinSocket_2.00mm"
     },
-    "kicad_lib_footprints_Connector_PinSocket_2.54mm": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3237,9 +3499,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_PinSocket_2.54mm"
     },
-    "kicad_lib_footprints_Connector_RJ": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3249,9 +3512,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_RJ"
     },
-    "kicad_lib_footprints_Connector_SATA_SAS": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3261,9 +3525,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_SATA_SAS"
     },
-    "kicad_lib_footprints_Connector_Samtec": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3273,9 +3538,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Samtec"
     },
-    "kicad_lib_footprints_Connector_Samtec_HLE_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3285,9 +3551,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Samtec_HLE_SMD"
     },
-    "kicad_lib_footprints_Connector_Samtec_HLE_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3297,9 +3564,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Samtec_HLE_THT"
     },
-    "kicad_lib_footprints_Connector_Samtec_HPM_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3309,9 +3577,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Samtec_HPM_THT"
     },
-    "kicad_lib_footprints_Connector_Stocko": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3321,9 +3590,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Stocko"
     },
-    "kicad_lib_footprints_Connector_TE-Connectivity": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3333,9 +3603,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_TE-Connectivity"
     },
-    "kicad_lib_footprints_Connector_USB": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3345,9 +3616,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_USB"
     },
-    "kicad_lib_footprints_Connector_Wago": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3357,9 +3629,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Wago"
     },
-    "kicad_lib_footprints_Connector_Wire": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3369,9 +3642,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Wire"
     },
-    "kicad_lib_footprints_Connector_Wuerth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3381,9 +3655,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Connector_Wuerth"
     },
-    "kicad_lib_footprints_Converter_ACDC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3393,9 +3668,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Converter_ACDC"
     },
-    "kicad_lib_footprints_Converter_DCDC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3405,9 +3681,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Converter_DCDC"
     },
-    "kicad_lib_footprints_Crystal": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3417,9 +3694,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Crystal"
     },
-    "kicad_lib_footprints_Diode_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3429,9 +3707,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Diode_SMD"
     },
-    "kicad_lib_footprints_Diode_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3441,9 +3720,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Diode_THT"
     },
-    "kicad_lib_footprints_Display": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3453,9 +3733,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Display"
     },
-    "kicad_lib_footprints_Display_7Segment": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3465,9 +3746,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Display_7Segment"
     },
-    "kicad_lib_footprints_Ferrite_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3477,9 +3759,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Ferrite_THT"
     },
-    "kicad_lib_footprints_Fiducial": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3489,9 +3772,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Fiducial"
     },
-    "kicad_lib_footprints_Filter": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3501,9 +3785,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Filter"
     },
-    "kicad_lib_footprints_Fuse": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3513,9 +3798,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Fuse"
     },
-    "kicad_lib_footprints_Heatsink": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3525,9 +3811,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Heatsink"
     },
-    "kicad_lib_footprints_Inductor_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3537,9 +3824,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Inductor_SMD"
     },
-    "kicad_lib_footprints_Inductor_SMD_Wurth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3549,9 +3837,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Inductor_SMD_Wurth"
     },
-    "kicad_lib_footprints_Inductor_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3561,9 +3850,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Inductor_THT"
     },
-    "kicad_lib_footprints_Inductor_THT_Wurth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3573,9 +3863,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Inductor_THT_Wurth"
     },
-    "kicad_lib_footprints_Jumper": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3585,9 +3876,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Jumper"
     },
-    "kicad_lib_footprints_LED_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3597,9 +3889,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_LED_SMD"
     },
-    "kicad_lib_footprints_LED_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3609,9 +3902,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_LED_THT"
     },
-    "kicad_lib_footprints_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3621,9 +3915,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Module"
     },
-    "kicad_lib_footprints_Motors": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3633,9 +3928,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Motors"
     },
-    "kicad_lib_footprints_MountingEquipment": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3645,9 +3941,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_MountingEquipment"
     },
-    "kicad_lib_footprints_MountingHole": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3657,9 +3954,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_MountingHole"
     },
-    "kicad_lib_footprints_Mounting_Wuerth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3669,9 +3967,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Mounting_Wuerth"
     },
-    "kicad_lib_footprints_NetTie": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3681,9 +3980,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_NetTie"
     },
-    "kicad_lib_footprints_OptoDevice": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3693,9 +3993,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_OptoDevice"
     },
-    "kicad_lib_footprints_Oscillator": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3705,9 +4006,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Oscillator"
     },
-    "kicad_lib_footprints_Package_BGA": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3717,9 +4019,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_BGA"
     },
-    "kicad_lib_footprints_Package_CSP": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3729,9 +4032,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_CSP"
     },
-    "kicad_lib_footprints_Package_DFN_QFN": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3741,9 +4045,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_DFN_QFN"
     },
-    "kicad_lib_footprints_Package_DIP": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3753,9 +4058,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_DIP"
     },
-    "kicad_lib_footprints_Package_DirectFET": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3765,9 +4071,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_DirectFET"
     },
-    "kicad_lib_footprints_Package_LCC": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3777,9 +4084,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_LCC"
     },
-    "kicad_lib_footprints_Package_LGA": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3789,9 +4097,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_LGA"
     },
-    "kicad_lib_footprints_Package_QFP": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3801,9 +4110,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_QFP"
     },
-    "kicad_lib_footprints_Package_SIP": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3813,9 +4123,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_SIP"
     },
-    "kicad_lib_footprints_Package_SO": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3825,9 +4136,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_SO"
     },
-    "kicad_lib_footprints_Package_SON": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3837,9 +4149,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_SON"
     },
-    "kicad_lib_footprints_Package_SO_J-Lead": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3849,9 +4162,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_SO_J-Lead"
     },
-    "kicad_lib_footprints_Package_TO_SOT_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3861,9 +4175,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_TO_SOT_SMD"
     },
-    "kicad_lib_footprints_Package_TO_SOT_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3873,9 +4188,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Package_TO_SOT_THT"
     },
-    "kicad_lib_footprints_Potentiometer_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3885,9 +4201,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Potentiometer_SMD"
     },
-    "kicad_lib_footprints_Potentiometer_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3897,9 +4214,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Potentiometer_THT"
     },
-    "kicad_lib_footprints_RF": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3909,9 +4227,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF"
     },
-    "kicad_lib_footprints_RF_Antenna": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3921,9 +4240,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_Antenna"
     },
-    "kicad_lib_footprints_RF_Converter": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3933,9 +4253,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_Converter"
     },
-    "kicad_lib_footprints_RF_GPS": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3945,9 +4266,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_GPS"
     },
-    "kicad_lib_footprints_RF_GSM": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3957,9 +4279,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_GSM"
     },
-    "kicad_lib_footprints_RF_Mini-Circuits": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3969,9 +4292,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_Mini-Circuits"
     },
-    "kicad_lib_footprints_RF_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3981,9 +4305,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_Module"
     },
-    "kicad_lib_footprints_RF_Shielding": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -3993,9 +4318,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_Shielding"
     },
-    "kicad_lib_footprints_RF_WiFi": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4005,9 +4331,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_RF_WiFi"
     },
-    "kicad_lib_footprints_Relay_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4017,9 +4344,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Relay_SMD"
     },
-    "kicad_lib_footprints_Relay_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4029,9 +4357,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Relay_THT"
     },
-    "kicad_lib_footprints_Resistor_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4041,9 +4370,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Resistor_SMD"
     },
-    "kicad_lib_footprints_Resistor_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4053,9 +4383,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Resistor_THT"
     },
-    "kicad_lib_footprints_Rotary_Encoder": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4065,9 +4396,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Rotary_Encoder"
     },
-    "kicad_lib_footprints_Sensor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4077,9 +4409,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor"
     },
-    "kicad_lib_footprints_Sensor_Audio": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4089,9 +4422,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Audio"
     },
-    "kicad_lib_footprints_Sensor_Current": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4101,9 +4435,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Current"
     },
-    "kicad_lib_footprints_Sensor_Distance": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4113,9 +4448,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Distance"
     },
-    "kicad_lib_footprints_Sensor_Humidity": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4125,9 +4461,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Humidity"
     },
-    "kicad_lib_footprints_Sensor_Motion": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4137,9 +4474,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Motion"
     },
-    "kicad_lib_footprints_Sensor_Pressure": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4149,9 +4487,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Pressure"
     },
-    "kicad_lib_footprints_Sensor_Voltage": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4161,9 +4500,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Sensor_Voltage"
     },
-    "kicad_lib_footprints_Socket": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4173,9 +4513,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Socket"
     },
-    "kicad_lib_footprints_Symbol": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4185,9 +4526,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Symbol"
     },
-    "kicad_lib_footprints_TerminalBlock": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4197,9 +4539,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock"
     },
-    "kicad_lib_footprints_TerminalBlock_4Ucon": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4209,9 +4552,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_4Ucon"
     },
-    "kicad_lib_footprints_TerminalBlock_Altech": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4221,9 +4565,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_Altech"
     },
-    "kicad_lib_footprints_TerminalBlock_Dinkle": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4233,9 +4578,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_Dinkle"
     },
-    "kicad_lib_footprints_TerminalBlock_MetzConnect": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4245,9 +4591,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_MetzConnect"
     },
-    "kicad_lib_footprints_TerminalBlock_Philmore": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4257,9 +4604,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_Philmore"
     },
-    "kicad_lib_footprints_TerminalBlock_Phoenix": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4269,9 +4617,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_Phoenix"
     },
-    "kicad_lib_footprints_TerminalBlock_RND": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4281,9 +4630,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_RND"
     },
-    "kicad_lib_footprints_TerminalBlock_TE-Connectivity": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4293,9 +4643,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_TE-Connectivity"
     },
-    "kicad_lib_footprints_TerminalBlock_WAGO": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4305,9 +4656,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_WAGO"
     },
-    "kicad_lib_footprints_TerminalBlock_Wuerth": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4317,9 +4669,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TerminalBlock_Wuerth"
     },
-    "kicad_lib_footprints_TestPoint": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4329,9 +4682,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_TestPoint"
     },
-    "kicad_lib_footprints_Transformer_SMD": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4341,9 +4695,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Transformer_SMD"
     },
-    "kicad_lib_footprints_Transformer_THT": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4353,9 +4708,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Transformer_THT"
     },
-    "kicad_lib_footprints_Transistor_Power_Module": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4365,9 +4721,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Transistor_Power_Module"
     },
-    "kicad_lib_footprints_Valve": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4377,9 +4734,10 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Valve"
     },
-    "kicad_lib_footprints_Varistor": {
+    {
         "owner": "kicad_contributors",
         "homepage": "https://gitlab.com/kicad/libraries/kicad-footprints",
         "releases": [
@@ -4389,6 +4747,7 @@
                 "author": "kicad_contributors",
                 "dependencies": {}
             }
-        ]
+        ],
+        "name": "kicad_lib_footprints_Varistor"
     }
-}
+]
