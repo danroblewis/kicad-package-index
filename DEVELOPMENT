@@ -47,3 +47,23 @@ receives json post-data: full Package record
 PUT /package/<packagename>/release/<version>/<filename>
 receives file data
 returns 
+
+
+
+examples:
+```
+curl -X GET http://localhost:5000/package/kpm-jlcpcb-basic -H "Authorization: asdf";echo
+
+curl -X PUT http://localhost:5000/package/asdf \
+   -H 'Content-Type: application/json' \
+   -d '{"homepage":"https://github.com/danroblewis/kpm-jlcpcb-basic","name":"kpm-jlcpcb-basic","owner":"danroblewis","releases":[{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip","author":"danroblewis","dependencies":{},"version":"0.0.1"},{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.2.zip","author":"danroblewis","dependencies":{},"version":"0.0.2"},{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.3.zip","author":"danroblewis","dependencies":{},"version":"0.0.3"},{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.4.zip","author":"danroblewis","dependencies":{},"version":"0.0.4"},{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.5.zip","author":"danroblewis","dependencies":{},"version":"0.0.5"}]}'
+
+
+curl -X PUT http://localhost:5000/package/topi -H 'Content-Type: application/json' -d '{"homepage":"https://github.com/danroblewis/kpm-jlcpcb-basic","name":"kpm-jlcpcb-basic","owner":"jeremy","releases":[{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip","author":"danroblewis","dependencies":{},"version":"0.0.1"}]}' -H 'Authorization: topi'
+
+
+curl -X PUT http://localhost:5000/package/topih1 -H 'Content-Type: application/json' -d '{"homepage":"https://github.com/danroblewis/kpm-jlcpcb-basic","name":"kpm-jlcpcb-basic","owner":"jeremyq","releases":[{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip","author":"danroblewisq","dependencies":{},"version":"0.0.1"}]}' -H 'Authorization: 12341'
+
+
+```
+
