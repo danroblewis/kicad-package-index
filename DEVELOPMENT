@@ -65,5 +65,6 @@ curl -X PUT http://localhost:5000/package/topi -H 'Content-Type: application/jso
 curl -X PUT http://localhost:5000/package/topih1 -H 'Content-Type: application/json' -d '{"homepage":"https://github.com/danroblewis/kpm-jlcpcb-basic","name":"kpm-jlcpcb-basic","owner":"jeremyq","releases":[{"artifact_url":"https://github.com/danroblewis/kpm-jlcpcb-basic/archive/refs/tags/v0.0.1.zip","author":"danroblewisq","dependencies":{},"version":"0.0.1"}]}' -H 'Authorization: 12341'
 
 
+curl -X PUT -F 'file=@./asdf.txt' http://localhost:5001/package/mypackage/release/0.0.1/asdf.txt
 ```
 

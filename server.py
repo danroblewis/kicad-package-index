@@ -2,12 +2,15 @@ from flask import Flask, jsonify, request
 import json
 import shutil
 import datetime
+import os
 
 
 # This is the worst possible implementation of a registry server. 
 
 
-app = Flask(__name__)
+app = Flask(__name__,
+			static_url_path='/public', 
+            static_folder='public',)
 
 
 registry_json_path = "./registry.json"
@@ -20,11 +23,24 @@ with open(users_path) as f:
 	users = json.load(f)
 
 
+CDN_PREFIX = 'http://localhost:5001'
+if os.path.exists('cdn_prefix'):
+	with open('cdn_prefix') as f:
+		CDN_PREFIX = f.read().strip()
+
+
 def reg_get_package(packagename):
+	pkg = None
 	for package in registry_packages:
 		if package['name'] == packagename:
-			return package
-	return None
+			pkg = package
+	if pkg is None:
+		return None
+	for release in pkg['release']:
+		if release['artifact_url'][0] == '/':
+			release['artifact_url'] = CDN_PREFIX + release['artifact_url']
+	return pkg
+
 
 def reg_get_user_by_token(token):
 	for user in users:
@@ -105,10 +121,19 @@ def search_packages():
 	return jsonify([ p for p in registry_packages if term in p['name'] ])
 
 
-@app.route("/package/<packagename>/release/<version>/<filename>", methods=['PUT'])
-def write_artifact(packagename, version, filename):
-	# TODO: write file somewhere
-	pass
+@app.route("/package/<packagename>/release/<version>", methods=['PUT'])
+def write_artifact(packagename, version):
+	dirpath = f"public/{packagename}/{version}"
+	os.makedirs(dirpath, exist_ok=True)
+	f = request.files['files']
+	path = f"{dirpath}/{f.filename}"
+	if '..' in path:
+		return "nah", 403
+	if os.path.exists(path):
+		return "file already exists", 403
+	with open(path, 'wb') as fp:
+		fp.write(f.read())
+	return f"/{path}"
 
 
 app.run(host='0.0.0.0', port=5001)
