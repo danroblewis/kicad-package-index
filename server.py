@@ -111,5 +111,5 @@ def write_artifact(packagename, version, filename):
 	pass
 
 
-app.run()
+app.run(host='0.0.0.0', port=5001)
 
