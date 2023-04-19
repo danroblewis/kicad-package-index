@@ -23,7 +23,7 @@ with open(users_path) as f:
     users = json.load(f)
 
 
-CDN_PREFIX = 'http://localhost:5001'
+CDN_PREFIX = 'http://vps-407d02be.vps.ovh.us:5001'
 if os.path.exists('cdn_prefix'):
     with open('cdn_prefix') as f:
     	CDN_PREFIX = f.read().strip()
@@ -87,9 +87,9 @@ def write_package(packagename):
     	print(package)
     	if user is None:
     		# if a package exists, then a user must exist for it
-    		return "No user with that token was found", 401
+    		return f"No user with token {token} was found", 401
     	elif package['owner'] != user['name']:
-    		return "You are not the owner of this package", 401
+    		return f"You are not the owner of this package, {package['owner']} is", 401
 
     # if a package by that doesn't exist, ensure the user exists
     if package is None:
@@ -129,8 +129,8 @@ def write_artifact(packagename, version):
     path = f"{dirpath}/{f.filename}"
     if '..' in path:
     	return "nah", 403
-    if os.path.exists(path):
-    	return "file already exists", 403
+    #if os.path.exists(path):
+   # 	return "file already exists", 403
     with open(path, 'wb') as fp:
     	fp.write(f.read())
     return f"/{path}"
