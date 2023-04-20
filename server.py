@@ -13,14 +13,16 @@ app = Flask(__name__,
             static_folder='public',)
 
 
-registry_json_path = "./registry.json"
-with open(registry_json_path) as f:
-    registry_packages = json.load(f)
+def get_registry():
+    registry_json_path = "./registry.json"
+    with open(registry_json_path) as f:
+        return json.load(f)
 
 
-users_path = "./users.json"
-with open(users_path) as f:
-    users = json.load(f)
+def get_users():
+    users_path = "./users.json"
+    with open(users_path) as f:
+        return json.load(f)
 
 
 CDN_PREFIX = 'http://vps-407d02be.vps.ovh.us:5001'
@@ -31,6 +33,7 @@ if os.path.exists('cdn_prefix'):
 
 def reg_get_package(packagename):
     pkg = None
+    registry_packages = get_registry()
     for package in registry_packages:
     	if package['name'] == packagename:
     		pkg = package
@@ -43,6 +46,7 @@ def reg_get_package(packagename):
 
 
 def reg_get_user_by_token(token):
+    users = get_users()
     for user in users:
     	if user['token'] == token:
     		return user
@@ -70,7 +74,7 @@ def get_package(packagename):
 
 @app.route("/package/<packagename>", methods=['PUT'])
 def write_package(packagename):
-    global registry_packages
+    registry_packages = get_registry()
 
     package = reg_get_package(packagename)
     token = request.headers.get("Authorization")
@@ -92,6 +96,7 @@ def write_package(packagename):
     		return f"You are not the owner of this package, {package['owner']} is", 401
 
     # if a package by that doesn't exist, ensure the user exists
+    users = get_users()
     if package is None:
     	# if this is a new package, ensure a user exists
     	if user is None:
@@ -117,6 +122,7 @@ def write_package(packagename):
 
 @app.route("/packages", methods=['GET'])
 def search_packages():
+    registry_packages = get_registry()
     term = request.args.get('term')
     return jsonify([ p for p in registry_packages if term in p['name'] ])
 
@@ -136,5 +142,5 @@ def write_artifact(packagename, version):
     return f"/{path}"
 
 
-app.run(host='0.0.0.0', port=5001)
+#app.run(host='0.0.0.0', port=5001)
 
