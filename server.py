@@ -25,7 +25,7 @@ def get_users():
         return json.load(f)
 
 
-CDN_PREFIX = 'http://vps-407d02be.vps.ovh.us:5001'
+CDN_PREFIX = 'http://kihub.info'
 if os.path.exists('cdn_prefix'):
     with open('cdn_prefix') as f:
     	CDN_PREFIX = f.read().strip()
