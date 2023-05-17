@@ -1,8 +1,9 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template, send_from_directory
 import json
 import shutil
 import datetime
 import os
+import re
 
 
 # This is the worst possible implementation of a registry server. 
@@ -10,7 +11,12 @@ import os
 
 app = Flask(__name__,
     		static_url_path='/public', 
+            template_folder='templates',
             static_folder='public',)
+
+app.config.update(
+    TEMPLATES_AUTO_RELOAD = True
+)
 
 
 def get_registry():
@@ -35,7 +41,7 @@ def reg_get_package(packagename):
     pkg = None
     registry_packages = get_registry()
     for package in registry_packages:
-    	if package['name'] == packagename:
+    	if package['name'].lower() == packagename.lower():
     		pkg = package
     if pkg is None:
     	return None
@@ -124,7 +130,14 @@ def write_package(packagename):
 def search_packages():
     registry_packages = get_registry()
     term = request.args.get('term')
-    return jsonify([ p for p in registry_packages if term in p['name'] ])
+    if term is None:
+        term = ''
+    term = term.lower().replace(' ', '.*')
+    ps = []
+    for p in registry_packages:
+        if re.match('.*'+term+'.*', p['name'].lower()):
+            ps.append(p)
+    return jsonify(ps)
 
 
 @app.route("/package/<packagename>/release/<version>", methods=['PUT'])
@@ -142,5 +155,15 @@ def write_artifact(packagename, version):
     return f"/{path}"
 
 
-#app.run(host='0.0.0.0', port=5001)
+@app.route("/")
+def index():
+    return send_from_directory('templates', 'index.html')
+
+import datetime
+t = datetime.datetime.now()
+@app.route("/time")
+def tt():
+    return str(t)
+
+
 

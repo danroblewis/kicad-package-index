@@ -1,0 +1,140 @@
+<html>
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+
+<style type="text/css">
+#search input.packagename {
+    width: 400px;
+}
+
+#search_results .package_result {
+    border: solid 1px #ddd;
+    padding: 5px;
+    margin: 5px;
+}
+.search_result_container {
+    margin: 20px;
+    width: 500px;
+    border-right: 1px dotted #bbb;
+}
+#search_results {
+    border: 1px solid #ddd;
+}
+#search_results tr {
+    border: 1px solid #ddd;
+}
+#search_results tr td {
+    border-left: 1px solid #ddd;
+}
+#package_details {
+    margin: 40px 20px;
+}
+#package_details .name, #package_details .owner, #package_details .homepage {
+    font-weight: bold;
+}
+#package_details .name span, #package_details .owner span, #package_details .homepage span {
+    font-weight: normal;
+}
+.releases_container {
+    margin: 40px 20px;
+    max-width: 500px;
+    border-right: 1px dotted #bbb;
+}
+#releases td {
+    border-left: 1px solid #ddd;
+    padding: 10px;
+}
+#install {
+    margin: 40px 20px;
+}
+#install .command {
+    font-family: monospace;
+    background-color: black;
+    border: 1px solid #aaa;
+    color: lightgreen;
+    padding: 5px;
+}
+</style>
+
+
+<div id='search'>
+    <input type='text' class='packagename' placeholder='search package name'/>
+</div>
+<div class='search_result_container'>
+    <table>
+        <thead>
+            <th>Package</th><th>Version</th><th>Owner</th>
+        </thead>
+        <tbody id='search_results'>
+            <tr class='package_result'>
+                <td><span class='package_name'>{{name}}</span></td>
+                <td><span class='version'>{{version}}</span></td>
+                <td><span class='owner'>{{owner}}</span></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div id='package_details'>
+    <div class='details'>
+        <div class='name'>Name: <span>{{name}}</span></div>
+        <div class='owner'>Owner: <span>{{owner}}</span></div>
+        <div class='homepage'>Homepage: <span><a href='{{homepage}}' target=_blank>{{homepage}}</a></span></div>
+    </div>
+</div>
+<div id='install'>
+    <div class='installation_notes'>
+        <span>To Install: </span><span class='command'>$ kpm install {{name}}</span>
+    </div>
+</div>
+<table class='releases_container'>
+    <thead>
+        <th>Version</th><th>Dependencies</th>
+    </thead>
+    <tbody id='releases'>
+        <tr class='release_entry'>
+            <td class='version'>{{version}}</td>
+            <td class='dependencies'>{{dependencies}}</td>
+        <tr>
+    </tbody>
+</table>
+
+<script type="text/javascript">
+//jQuery.get('/time', function(d) { setInterval(function() { jQuery.get('/time', function(dd) { if (d != dd) { window.location.href = window.location.href; } }) }, 2000) })
+
+function renderInner(tpl, params) {
+    return Array.isArray(params) ? 
+        params.reduce(function(ret, p) { return ret  + renderInner(tpl, p); }, "") : 
+        Object.keys(params).reduce(function(ret, k) { return ret.replaceAll('{{'+k+'}}', params[k]); }, tpl)
+}
+tpls = {}
+function render(containerpath, path, params) {
+    if (!(path in tpls)) tpls[path] = jQuery(path)[0].outerHTML
+    return jQuery(containerpath).html(renderInner(tpls[path], params))
+}
+var package_result_tpl = jQuery('.package_result').html()
+
+jQuery('#search input.packagename').on('keyup', function(e) {
+//    if (e.which == 13) { // enter key is pressed
+        jQuery.get('/packages?term=' + jQuery('#search input.packagename').val(), function(g) {
+            for (var k of g) {
+                k['version'] = k.releases.pop()['version']
+            }
+            render('#search_results', '#search_results .package_result', g)
+            jQuery('#search_results .package_result:last .package_name').click()
+        })
+//    }
+})
+jQuery(document).on('click', '#search_results tr', function(e) {
+    var name = jQuery(e.target).parents('.package_result').find('.package_name').text()
+    jQuery.get('/package/' + name, function(g) {
+        render('#package_details', '#package_details .details', g)
+        for (var release of g.releases) {
+            release['dependencies'] = Object.keys(release.dependencies).join(', ')
+        }
+        render('#releases', '#releases .release_entry', g.releases.reverse())
+        render('#install', '#install .installation_notes', g)
+    })
+});
+jQuery('#search input.packagename').val('euro')
+jQuery('#search input.packagename').trigger(jQuery.Event('keyup', {which: 13}))
+</script>
